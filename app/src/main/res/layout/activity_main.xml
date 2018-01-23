@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="70dp"
+        android:layout_marginTop="44dp"
         android:text="@string/title"
         android:textColor="@android:color/black"
         android:textSize="40sp" />
@@ -29,5 +29,5 @@
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="24dp"
-        app:srcCompat="@drawable/coal" android:contentDescription="TODO"/>
+        app:srcCompat="@drawable/coal" android:contentDescription="TODO" />
 </RelativeLayout>
